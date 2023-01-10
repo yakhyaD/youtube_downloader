@@ -1,0 +1,5 @@
+videos/
+venv/
+url_list.txt
+test_list.txt
+.DS_Store
